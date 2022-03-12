@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
               "Agrify",
             )),
           ),
-          body: Home()),
+          body: const Home()),
     );
   }
 }
